@@ -163,7 +163,6 @@ public class ControleDoSistema
         this.ListaDeProfessores.add(novoProfessor);
         this.Colaboradores.add(novoProfessor);
         
-        novoProfessor.MostrarPessoa();
         System.out.println("\n-> Professor cadastrado com sucesso!");
     }
     public void CadastrarAluno(){
